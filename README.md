@@ -46,7 +46,7 @@
 
 </td><td valign="top" width="33%">
 
-![Image alt](https://github.com/RozzeN/pavlov_ilya/blob/main/Xin5Wr5h1SI.jpg)
+![Image alt](https://github.com/Cullinanchik/Cullinanchik/blob/main/Xin5Wr5h1SI.jpg)
 
 
 </td></tr></table>  
@@ -56,7 +56,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/RozzeN" target="_blank">
+<a href="https://github.com/Cullinanchik" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://gitlab.com/mr.ilya.pavlov" target="_blank">
@@ -69,7 +69,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=RozzeN&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Cullinanchik&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
@@ -77,7 +77,7 @@
 ## Recent Blog Posts  
   
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=RozzeN&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=Cullinanchik&&style=flat-square" align="center" />
 </div>  
   
 
