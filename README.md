@@ -46,7 +46,7 @@
 
 </td><td valign="top" width="33%">
 
-![Image alt](https://github.com/Cullinanchik/Cullinanchik/blob/main/Xin5Wr5h1SI.jpg)
+![Image alt](https://github.com/Cullinanchik/Cullinanchik/blob/main/p9iZBY4D8cM.jpg)
 
 
 </td></tr></table>  
